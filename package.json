@@ -1,0 +1,19 @@
+{
+  "name": "vuepress",
+  "version": "0.0.0",
+  "description": "A client-side javascript application for interacting with the WordPress REST API. Best used as a starting point to build your own SPA WordPress theme!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawhorkl/VuePress.git"
+  },
+  "author": "Kyle Lawhorn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lawhorkl/VuePress/issues"
+  },
+  "homepage": "https://github.com/lawhorkl/VuePress#readme"
+}
