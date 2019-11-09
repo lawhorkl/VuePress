@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+  - export DEPLOYPATH=/home/thegeeky/vuepresss
+  - /bin/cp -R /home/thegeeky/repositories/VuePress $DEPLOYPATH
